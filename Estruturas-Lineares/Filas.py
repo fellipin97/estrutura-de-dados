@@ -1,9 +1,9 @@
-# Exemplo de pilha em Python usando lista
+# Exemplo de fila em Python
 
-pilha = [1, 2, 3]
-pilha.append(4)  # Inserção no topo
-print(pilha)  # [1, 2, 3, 4]
+fila = [1, 2, 3]
+fila.append(4)  # Inserção no final
+print(fila)  # [1, 2, 3, 4]
 
-pilha.pop()  # Remoção do topo
-print(pilha)  # [1, 2, 3]
+fila.pop(0)  # Remoção do primeiro elemento
+print(fila)  # [2, 3, 4]
 
