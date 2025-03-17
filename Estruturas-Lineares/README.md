@@ -1,3 +1,7 @@
 Estruturas de Dados Lineares
+As estruturas de dados lineares são aquelas em que os elementos são armazenados de forma sequencial, ou seja, um a um, de forma que o próximo elemento a ser acessado está diretamente conectado ao anterior. Três das estruturas de dados lineares mais usadas no cotidiano são:
 
-As estruturas de dados lineares são aquelas em que os elementos são armazenados de forma sequencial, ou seja, um a um, de forma que o próximo elemento a ser acessado está diretamente conectado ao anterior. Três das estruturas de dados lineares mais usadas no cotidiano são: listas, filas e pilhas. Listas permitem o acesso randomizado aos seus elementos, contudo, filas e pilhas possuem restrições de acesso. Nas filas, o primeiro elemento a entrar é o primeiro a sair, enquanto nas pilhas o último elemento a entrar é o primeiro a sair. Cada estrutura tem suas peculiaridades e é apropriada para diferentes situações, contudo, todas armazenam seus dados de forma ordenada e sequencial.
+- listas
+- Filas 
+- Pilhas 
+
